@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\tests"
+		},
+		{
+			"path": "..\\db"
+		},
+		{
+			"path": "..\\routes"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
